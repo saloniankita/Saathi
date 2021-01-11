@@ -68,18 +68,3 @@ In this way, it can assist them in finding the suitable food items whenever they
 +  For elderly people with poor eyesight
 
 +  For Illiterate people with Local language support
-
-
-## About us :
-
-
-<h4> Created with ❤️ by :</h4>
-
-Ankita Saloni    -   [saloniankita](https://www.linkedin.com/in/saloniankita/)
-
-Akanksha Singh   -  [akanksha1212](https://www.linkedin.com/in/akanksha1212/)
-
-Sayali Ingle     -   [sayali-ingle](https://www.linkedin.com/in/sayali-ingle-3194251b8/)
-
-Shivani Susarla  -   [shivani-susarla](https://www.linkedin.com/in/shivani-susarla-240744186/)
-
