@@ -63,6 +63,8 @@ In case, the item is packaged, it would scan the packet and check for :
 
 In this way, it can assist them in finding the suitable food items whenever they need by giving accurate and personalised results.
 
+### A demonstration of our app can be found here - https://youtu.be/7qsnlz7KLo0
+
 ## Extensions in Future
 
 +  For elderly people with poor eyesight
